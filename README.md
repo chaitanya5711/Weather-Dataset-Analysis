@@ -1,21 +1,20 @@
-# Pandas Data Analysis Project
+# Weather Data Analysis using Pandas
+This project analyzes a weather dataset using Pandas. It includes data cleaning, filtering, grouping, and extracting insights such as weather patterns, wind speed trends, and visibility analysis.
 
 ## 📊 Project Description
-This project analyzes employee data using Pandas.
+This project analyzes weather data using Pandas.
 
-## 🔧 Tools Used
+## 🔧 Operations Performed
+- Data Cleaning
+- Filtering
+- GroupBy Analysis
+- Handling Missing Values
+
+## 📁 Dataset
+Weather dataset
+
+## 🚀 Tools Used
 - Python
 - Pandas
 
-## 📌 Key Operations
-- Data Cleaning
-- Filtering
-- GroupBy
-- Merging datasets
-- Creating new columns
 
-## 📈 Insights
-- Average salary by department
-- High salary employees identified
-
-This project analyzes a weather dataset using Pandas. It includes data cleaning, filtering, grouping, and extracting insights such as weather patterns, wind speed trends, and visibility analysis.
